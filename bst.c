@@ -4,7 +4,7 @@
  struct node *ptr=NULL;
  struct node *par=NULL;
  struct node *left1=NULL;
- struct node *right1=NULL; 
+ struct node *right1=NULL;
  struct node *head=NULL,*h=NULL;
  int count=0,l=0,flag1=0,flag2=0,countarray=0;
  struct node *searchloc;
@@ -116,7 +116,6 @@ void traversal(struct node *y){
         }
     }
  }
- void level
 int main()
 {
     int arr[]={15,12,6,13,19,18};
